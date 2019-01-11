@@ -1,0 +1,4 @@
+#Fri Jan 11 11:01:43 ICT 2019
+base.0=/Users/apple/Desktop/React-Native/Mapslide/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
