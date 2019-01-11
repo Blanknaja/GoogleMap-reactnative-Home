@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>18D7C636-403C-4FAE-B3EE-5FFEEE5758DF</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>18D7C636-403C-4FAE-B3EE-5FFEEE5758DF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mapslide project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mapslide</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project Mapslide with scheme Mapslide and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>568868113.21539199</real>
+			<key>timeStoppedRecording</key>
+			<real>568868124.25743496</real>
+			<key>title</key>
+			<string>Building project Mapslide with scheme Mapslide and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>18D7C636-403C-4FAE-B3EE-5FFEEE5758DF</string>
+		</dict>
+		<key>DBDA30D8-7BE3-4158-89C3-0085A7D04CB3</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DBDA30D8-7BE3-4158-89C3-0085A7D04CB3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mapslide project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mapslide</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project Mapslide with scheme Mapslide and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>568881473.70378602</real>
+			<key>timeStoppedRecording</key>
+			<real>568881489.30856001</real>
+			<key>title</key>
+			<string>Building project Mapslide with scheme Mapslide and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>DBDA30D8-7BE3-4158-89C3-0085A7D04CB3</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
